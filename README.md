@@ -287,7 +287,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## layout of the circuit 
-![image](https://github.com/user-attachments/assets/0fa143f9-3290-40b1-9a52-40711afabe06)
+![image](https://github.com/user-attachments/assets/77d09b38-b0ae-4503-9a4e-63f854b0feb1)
 
  
  
